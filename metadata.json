@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Workspace App",
+  "description": "Sistem CS & Kasir Digital 24 Jam ADAM COLLECTION: Kalkulator Seragam Borongan, Live Simulasi Kain, Generator SPK Bengkel, dan Pelacak Status Jahitan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
